@@ -13,18 +13,41 @@
         <img
           alt="Quasar logo"
           src="~assets/logo.svg"
-          style="width: 114px; height: 21px"
+          style="width: 120px; height: 21px"
         />
       </div>
 
       <div class="row q-pa-lg">
         <div>
+          <div class=" ">
+            <img
+              alt="caption"
+              src="~assets/caption.svg"
+              style="width: 150px; height: 100%"
+            />
+          </div>
           <h1 class="text-h3 text-weight-bolder" style="cursor: pointer">
             고의 실력을 가진 외국인 인재를 찾고 계신가요?
           </h1>
           <p class="text-h6 text-weight-bold">
             법률 및 인사관리 부담없이 1주일 이내에 원격으로 채용해보세요.
           </p>
+
+          <div
+            class=" "
+            style="
+              justify-content: center;
+              align-items: center;
+              padding: 0px;
+              display: flex;
+            "
+          >
+            <img
+              alt="caption"
+              src="~assets/caption2.svg"
+              style="width: 150px; height: 100%"
+            />
+          </div>
         </div>
 
         <!-- carousel pics -->
